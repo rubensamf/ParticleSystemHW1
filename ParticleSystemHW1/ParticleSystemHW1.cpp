@@ -1,10 +1,13 @@
+/**
+*	Author: Ruben Fitch
+*	CMPM 265 HW1 Particle Systems
+*	1/15/2015
+*/
 // ParticleSystemHW1.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
 #include <SFML/Graphics.hpp>
-//#include "ParticleSystem.h"
-//#include "ParticleSystemHW1.h"
 #include <iostream>
 #include <assert.h>
 
